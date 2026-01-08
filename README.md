@@ -15,7 +15,6 @@
 - [Architecture](#architecture)
 - [Performance](#performance)
 - [Browser Compatibility](#browser-compatibility)
-- [Assignment Context](#assignment-context)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
