@@ -1,4 +1,4 @@
-# 🎵 Circular Audio Equalizer - PrepXL Assignment
+# 🎵 Circular Audio Equalizer
 
 > Real-time audio frequency visualization built with Next.js, TypeScript, and Web Audio API
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Overview
 
-This project is a fully custom circular audio equalizer built for the PrepXL Fullstack Development internship assignment. It captures real-time audio from the user's microphone, analyzes frequency data, and renders a stunning circular visualization at 60 FPS.
+This project captures real-time audio from the user's microphone, analyzes frequency data, and renders a stunning circular visualization at 60 FPS.
 
 ### Key Highlights
 
@@ -57,8 +57,6 @@ This project is a fully custom circular audio equalizer built for the PrepXL Ful
 ## 🎥 Demo
 
 **Live Demo:** [View Live Application](https://audio-pulse-weld.vercel.app/)
-
-**Video Walkthrough:** [Watch on YouTube](https://youtu.be/fKzyA55B1Ks)
 
 ### Screenshots
 
@@ -250,26 +248,6 @@ Tested on MacBook Pro M1, Chrome 120:
 - Safari requires user gesture to start audio context
 - Older browsers may not support all Web Audio features
 
-## 📝 Assignment Context
-
-### Strategic Approach
-
-This project is part of a 3-task assignment. I chose to focus on:
-
-1. ✅ **Task 1: Circular Audio Equalizer** (This repository)
-2. ✅ **Task 3: PrepXL Website Enhancement Analysis** ([View Document](./frontend//public/PrepXL_assignment.pdf))
-3. ❌ **Task 2: Backend Transcription** (Not completed - see rationale below)
-
-### Rationale
-
-The backend assignment required Spring Boot (Java), which is outside my primary tech stack (Node.js/Express). Rather than deliver subpar Java code, I invested time in:
-
-- Building a production-quality frontend visualizer
-- Creating a comprehensive 15-page UI/UX audit of PrepXL's website
-- Demonstrating strategic thinking and prioritization skills
-
-This approach showcases my strengths while being transparent about limitations.
-
 ## 🚀 Future Enhancements
 
 ### Planned Features
@@ -292,7 +270,7 @@ This approach showcases my strengths while being transparent about limitations.
 
 ## 🤝 Contributing
 
-This is an assignment submission, but feedback and suggestions are welcome!
+Feedback and suggestions are welcome!
 Please open an issue or pull request for any improvements.
 
 ## 👤 Author
@@ -304,17 +282,4 @@ Please open an issue or pull request for any improvements.
 - 🐙 GitHub: [RohanMishra47](https://github.com/RohanMishra47)
 - 📧 Email: mydearluffy093@gmail.com
 
-## 🙏 Acknowledgments
-
-- PrepXL team for the interesting assignment challenge
-- [MDN Web Docs](https://developer.mozilla.org/) for Web Audio API documentation
-- [Next.js Team](https://nextjs.org/) for the excellent framework
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS approach
-
----
-
 ## ❤️ Thank You!
-
----
-
-**Built with ❤️ for PrepXL Internship Assignment | December 2025**
